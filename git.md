@@ -16,3 +16,7 @@
 * git add .
 * git commit -m "Update my lovely home"
 * git push origin master
+
+下載在 github 的專案
+=====
+* git clone https://github.com/使用者名稱/repo.git
